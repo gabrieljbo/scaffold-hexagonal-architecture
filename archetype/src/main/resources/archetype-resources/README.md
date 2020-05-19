@@ -1,1 +1,0 @@
-# scaffold-hexagonal-architecture
