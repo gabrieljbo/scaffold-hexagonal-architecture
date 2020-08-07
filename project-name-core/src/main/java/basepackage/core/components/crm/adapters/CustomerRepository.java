@@ -2,12 +2,7 @@ package basepackage.core.components.crm.adapters;
 
 import java.util.List;
 
-import org.springframework.data.repository.CrudRepository;
-import org.springframework.stereotype.Repository;
-
-@SuppressWarnings("unchecked")
-@Repository
-interface CustomerRepository extends CrudRepository<CustomerEntity, Integer> {
+interface CustomerRepository {
 
     CustomerEntity save(CustomerEntity entity);
 
