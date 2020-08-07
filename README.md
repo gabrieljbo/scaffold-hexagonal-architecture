@@ -1,4 +1,12 @@
 # scaffold-hexagonal-architecture
+Hexagonal architecture scaffold for building software components using Spring Boot. <br/>
+The scaffold is built taking the following structure as a reference: <br/>
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/42975550/89693155-470db080-d8d3-11ea-89a2-d4ee185b4b4a.png" width="638" height="607">
+<br/>
+<br/>
+<br/>
 
 
 ## Installation
